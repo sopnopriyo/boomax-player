@@ -4,7 +4,7 @@ android {
     compileSdkVersion 21
     buildToolsVersion "21.1.2"
     defaultConfig {
-        applicationId "bigfat.mymusicplayer"
+        applicationId "sopnopriyo.mymusicplayer"
         minSdkVersion 14
         targetSdkVersion 21
         versionCode 26

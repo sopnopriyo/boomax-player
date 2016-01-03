@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@mipmap/main_background"
-    tools:context="bigfat.mymusicplayer.MainActivity">
+    tools:context="sopnopriyo.mymusicplayer.MainActivity">
 
     <LinearLayout
         android:id="@+id/linearLayoutBanner"

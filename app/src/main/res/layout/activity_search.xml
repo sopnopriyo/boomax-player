@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="@mipmap/main_background">
 
-    <bigfat.mymusicplayer.widget.ClearEditText
+    <sopnopriyo.mymusicplayer.widget.ClearEditText
         android:id="@+id/clearEditTextSearch"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

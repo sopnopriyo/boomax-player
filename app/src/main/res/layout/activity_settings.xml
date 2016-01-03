@@ -26,8 +26,8 @@
             android:layout_height="wrap_content"
             android:layout_margin="12dp"
             android:text="@string/save_music_status"
-            android:textOn="启用"
-            android:textOff="关闭"
+            android:textOn="Enable"
+            android:textOff="Shut down"
             android:textColor="@color/whitesmoke"
             android:textSize="18sp" />
     </LinearLayout>
